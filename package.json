@@ -1,5 +1,5 @@
 {
-  "name": "v4.icomrade.xyz",
+  "name": "mk3.icomrade.xyz",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "swup": "^2.0.19",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3"
   },
@@ -23,7 +24,10 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-vue": "^8.0.3",
-    "prettier": "^2.4.1"
+    "prettier": "^2.4.1",
+    "sass": "^1.54.7",
+    "sass-loader": "^13.0.2",
+    "webpack": "^5.74.0"
   },
   "eslintConfig": {
     "root": true,
